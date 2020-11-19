@@ -25,3 +25,10 @@ Após a varredura ser concluída, será printado em seu console todos os links n
 > :warning: _No arquivo **tests.txt** é possível encontrar dados para fins de teste._
 
 > :warning: _Na pasta do projeto, é possível também encontrar um vídeo mostrando o script em ação._
+
+## Colaboradores: 
+
+* Marcelo Lourençon
+* Rafael Ideriha
+* Rhames Lima
+* Lucas Martinez
