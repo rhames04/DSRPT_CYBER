@@ -11,7 +11,11 @@ Ao iniciar o script, lhe é solicitado que insira o tipo de informação que des
   * CPF
   * RG
   * Número de cartão
-  
-> :warning: _Qualquer tipo de informação pode ser buscada, mas tente ser o mais objetivo possível visto que será feita uma busca **exata** do conteúdo._
 
 Após a varredura ser concluída, será printado em seu console todos os links no qual a informação desejada foi encontrada. 
+
+> :warning: _Qualquer tipo de informação pode ser buscada, mas tente ser o mais objetivo possível visto que será feita uma busca **exata** do conteúdo._
+
+> :warning: _No arquivo **tests.txt** é possível encontrar dados para fins de teste._
+
+> :warning: _Na pasta do projeto, é possível também encontrar um vídeo mostrando o script em ação._
