@@ -1,6 +1,6 @@
 # DSRPT_CYBER :books:
 
-Este é um script escrito em Python e Selenium que tem como objetivo varrer alguns sites em busca de dados vazados.
+Este é um script escrito em Python e Selenium que tem como objetivo varrer alguns sites em busca de dados vazados utilizando Google Hacking.
 
 #### Requisitos:
 
